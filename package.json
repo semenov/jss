@@ -14,5 +14,8 @@
     "css"
   ],
   "author": "Vlad Semenov",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
 }
